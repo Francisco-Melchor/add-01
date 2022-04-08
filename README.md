@@ -1,7 +1,7 @@
 # Mycropython Pin
 
 
-Alumno: Francisco Melchor
+Alumno: Francisco Melchor y Juan Sebastián Lucentini
 
 Curso: 5° 1° AVC
 
